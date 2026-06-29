@@ -1,20 +1,28 @@
-# Week 03
+# Week 03 - Penerapan Virtual Machine
 
-## Materi
-(Tulis materi minggu pertama)
+## Tujuan Pembelajaran
+
+Memahami pentingnya penggunaan Virtual Machine dalam proses Reverse Engineering.
+
+## Materi yang Dipelajari
+
+- Virtual Machine
+- Isolasi lingkungan
+- Keamanan analisis malware
 
 ## Tools
+
 - VirtualBox
-- Windows VM
+- Windows Virtual Machine
 
-## Yang Saya Pelajari
+## Hal yang Saya Pelajari
 
-...
+Saya memahami bahwa proses analisis executable sebaiknya dilakukan di lingkungan virtual agar tidak membahayakan sistem operasi utama. Dengan VM, risiko infeksi malware dapat diminimalkan.
 
 ## Kendala
 
-...
+Proses instalasi VM membutuhkan resource komputer yang cukup besar.
 
 ## Kesimpulan
 
-...
+Virtual Machine merupakan komponen penting dalam Reverse Engineering karena memberikan lingkungan analisis yang lebih aman.
