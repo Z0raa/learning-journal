@@ -1,20 +1,28 @@
-# Week 06
+# Week 06 - Analisis Malware Menggunakan Ghidra
 
-## Materi
-(Tulis materi minggu pertama)
+## Tujuan Pembelajaran
+
+Melakukan analisis malware menggunakan Ghidra.
+
+## Materi yang Dipelajari
+
+- Import binary
+- Listing
+- Symbol Tree
+- Decompiler
 
 ## Tools
-- VirtualBox
-- Windows VM
 
-## Yang Saya Pelajari
+- Ghidra
 
-...
+## Hal yang Saya Pelajari
+
+Saya mulai memahami bagaimana Ghidra melakukan proses disassembly dan decompile sehingga kode assembly dapat dipahami dalam bentuk yang lebih mudah dibaca.
 
 ## Kendala
 
-...
+Masih perlu waktu memahami hasil decompile yang cukup kompleks.
 
 ## Kesimpulan
 
-...
+Ghidra merupakan tools yang sangat membantu dalam proses Reverse Engineering.
