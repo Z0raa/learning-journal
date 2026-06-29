@@ -1,5 +1,3 @@
-# learning-journal
-Learning journal for Reverse Engineering course.
 # 📚 Reverse Engineering Learning Journal
 
 ## Deskripsi
